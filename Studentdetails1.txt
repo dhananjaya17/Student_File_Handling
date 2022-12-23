@@ -1,0 +1,14 @@
+Rajesh,Saluru,male,B.Tech,ECE,A
+RAMYA,rajam,female,degree,MSC,A
+Ramesh,Vizag,male,M.Tech,ECE,C
+Ramu,Bobbili,Male,Degree,B.Sc, F
+Harita,viz.,Female,M.tech,eee,B
+RAMYA,rajam,Female,degree,MSC, F
+Hemanth,bbl,male,mca,computers,B
+Mani,Paravathipuram,Female,Degree,Science,A
+Sita,Rajam,FEMALE,m.com,computers, F
+Ramu,Bobbili,Male,Degree,B.Sc,C
+Ragu,Aruku,Male,B.Tech,Mech.,B
+RAMYA,rajam,Female,degree,MSC, F
+Rakesh,Rajam,Male,B.Tech,EEE,A
+hemanth,banglore,m,mca,computers,a
